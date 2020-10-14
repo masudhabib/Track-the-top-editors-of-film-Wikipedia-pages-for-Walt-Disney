@@ -1,6 +1,5 @@
 # Track-the-top-editors-of-film-Wikipedia-pages-for-Walt-Disney
 
-# Abstract
 Wikipedia is one of the most important sources that our audience uses to learn about films -- the Wikipedia pages for films are some of the more commonly viewed and edited pages on Wikipedia.
 Since Covid-19, Disney+ streaming subscriptions have grown rapidly. There are so many great movies, like Star Wars: The Force Awakens, Guardians of the Galaxy, The Avengers, Black Panther, and many more. At this time, the quality of the content on the Disney movie page of Wikipedia is extremely important. I’ll use tools and methods to track the top editors of film, and Wikipedia pages for Walt Disney.
 The quality of the content on the Disney movie page of Wikipedia is extremely important. I would like to understand who the "top" Wikipedia film contributors are and build a dashboard around this for easy access by Data Analysis. Specifically, I want to know which users are most active in editing the Wikipedia pages for films. But let's take it a little further, I want to track the top editors for film pages and the Wikipedia pages that frequently link out to specific film pages as well (for example, Star Wars links to several film pages).
